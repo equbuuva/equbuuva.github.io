@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://equbuuva.github.io/Eoy/sitemap_index.txt.gz
+Sitemap: https://equbuuva.github.io/Ilb/sitemap_index.txt.gz
+Sitemap: https://equbuuva.github.io/WFt/sitemap_index.txt.gz
+Sitemap: https://equbuuva.github.io/eHG/sitemap_index.txt.gz
+Sitemap: https://equbuuva.github.io/nFQ/sitemap_index.txt.gz
